@@ -1,0 +1,22 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "rules-horror",
+  "version": "1.0.0",
+  "description": "Permainan horor interaktif berbahasa Indonesia dengan dunia persisten, narator yang bisa keliru, dan konsekuensi berbasis simulasi.",
+  "repository": "https://github.com/SeraKah-1/rules-horror",
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Rules Horror",
+        "shortDescription": "Horor interaktif persisten",
+        "longDescription": "Mainkan kampanye horor berbahasa Indonesia dengan dunia yang berkembang mengikuti tindakan pemain. Mulai dengan Quick Start, atur kampanye sendiri, atau lanjutkan dari simpanan. Intelligent UI digunakan jika tersedia. Mesin simpan Python mendukung audit, pemulihan snapshot, dan ekspor cadangan.",
+        "category": "Entertainment",
+        "defaultPrompt": [
+          "Mulai Rules Horror dengan Quick Start.",
+          "Buat kampanye Rules Horror dengan pengaturan khusus.",
+          "Lanjutkan kampanye Rules Horror."
+        ]
+      }
+    }
+  }
+}
