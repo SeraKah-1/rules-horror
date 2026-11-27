@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "rules-horror",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Permainan horor interaktif berbahasa Indonesia dengan dunia persisten, narator yang bisa keliru, dan konsekuensi berbasis simulasi.",
   "repository": "https://github.com/SeraKah-1/rules-horror",
   "extensions": {

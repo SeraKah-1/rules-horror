@@ -1,4 +1,4 @@
-# Rules Horror
+# Rules Horror v2.0
 
 Plugin ChatGPT untuk bermain horor berbahasa Indonesia. Dunia mengikuti sebab-akibat, informasi yang diterima karakter bisa keliru, dan konsekuensi mengikuti kondisi dunia.
 
